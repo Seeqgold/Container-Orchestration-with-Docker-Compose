@@ -47,7 +47,11 @@ vprofile-project/
 │       └── vprofile.conf
 
 ##Images
-![docker-compose-images](
+![docker-compose-images](images/docker-compose-images.png)
+![docker-compose-images](images/docker-compose-ps.png)
+![docker-compose-images](images/docker-compose-tag.png)
+![docker-compose-images](images/docker-push.png)
+
 
 Author
 
